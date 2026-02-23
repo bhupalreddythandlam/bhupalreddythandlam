@@ -1,4 +1,4 @@
-# T-Bhupal
+# T Bhupal
 ### 🛠 Languages & Tools
 
 **Languages:**

@@ -1,16 +1,43 @@
-# T Bhupal
-### 🛠 Languages & Tools
+# Bhupal Reddy Thandlam
 
-**Languages:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+👋  **Hello! I'm Bhupal Reddy Thandlam**  
+I am a passionate software developer and data enthusiast with expertise in various technologies. Below you'll find my skills organized for your convenience.
 
-**Databases & Data Tools:**
-![MySQL](https://img.shields.io/badge/mysql-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-FF6B35?style=for-the-badge&logo=database&logoColor=white)
+---
 
-**Version Control:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🛠️ Technologies & Tools
+
+| Technologies | Skills |
+| ------------ | ------ |
+| Programming Languages | Python, C, C++  |
+| Databases | MySQL, PostgreSQL, Snowflake, SQLite, MongoDB |
+| Data Processing | Pandas, Apache Spark |
+| Data Visualization | Tableau |
+| Networking & Protocols | TCP/IP, DNS, HTTP/HTTPS  |
+| Additional Tools | Git, Cisco, Wireshark, Subnetting |
+
+---
+
+## 🎓 Education & Certifications
+- [B-Tech AI&ML] - [SIMATS university] - [2028]
+
+---
+
+## 🌱 Current Learning
+I’m currently exploring advanced data engineering concepts and distributed systems to enhance my expertise.
+
+---
+
+## 📝 Projects
+- **Project Name** - Brief description of the project and technologies used.
+- **Project Name** - Brief description of the project and technologies used.
+
+---
+
+## 📫 Get in Touch
+- **Email**: [thandlambhupal*@gmail.com]
+- **LinkedIn**: [www.linkedin.com/in/bhupalreddythandlam]
+
+---
+
+Looking forward to connecting! 🚀

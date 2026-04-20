@@ -8,7 +8,8 @@
 
 **Databases & Data Tools:**
 ![MySQL](https://img.shields.io/badge/mysql-%23005C84.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-FF6B35?style=for-the-badge&logo=database&logoColor=white)
+![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-000000?style=flat-square&logo=warehouse&logoColor=white)
+![TSQL](https://img.shields.io/badge/TSQL-000000?style=flat-square&logo=sql&logoColor=white)
 
 **Version Control:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)

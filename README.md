@@ -1,19 +1,15 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=200&section=header&text=T%20Bhupal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20%7C%20B-Tech%20Student&descAlignY=55&descAlign=50" width="100%"/>
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Aspiring+Data+Engineer+%F0%9F%9A%80;Building+Modern+Data+Warehouses+%F0%9F%8F%97%EF%B8%8F;Learning+Apache+Spark+%26+Databricks+%E2%9A%A1;Exploring+Azure+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Passionate+about+Data+%26+Analytics+%F0%9F%93%8A" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=bhupalreddythandlam&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/bhupalreddythandlam?style=for-the-badge&color=00b4d8&labelColor=0d1117)](https://github.com/bhupalreddythandlam)
 [![Email](https://img.shields.io/badge/Email-thandlambhupal8@gmail.com-00b4d8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thandlambhupal8@gmail.com)
+![Mobile](https://img.shields.io/badge/Mobile-9390294863-00b4d8?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 </div>
 
@@ -21,43 +17,30 @@
 
 ## 🙋‍♂️ About Me
 
-```python
-class TBhupal:
-    def __init__(self):
-        self.name         = "T Bhupal"
-        self.username     = "bhupalreddythandlam"
-        self.role         = "Aspiring Data Engineer"
-        self.education    = "B.Tech @ Saveetha School of Engineering"
-        self.location     = "Chennai, India 🇮🇳"
-        self.pronouns     = "He / Him"
-        self.email        = "thandlambhupal8@gmail.com"
+Hello! I'm **T Bhupal**, a passionate B.Tech student specializing in Artificial Intelligence and Machine Learning. I focus on processing large datasets and building automated, efficient pipelines to turn raw data into clean, meaningful, and actionable insights.
 
-    @property
-    def currently_learning(self):
-        return ["Apache Spark ⚡", "Databricks 🧱", "Azure Cloud ☁️"]
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Currently Learning</h3>
+      <ul>
+        <li><b>Apache Spark</b> & Distributed Computing</li>
+        <li><b>Databricks</b> Analytics Platforms</li>
+        <li><b>Azure Cloud</b> Infrastructure & Services</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Core Interests</h3>
+      <ul>
+        <li>Data Warehousing & Architecture</li>
+        <li>End-to-End ETL/ELT Pipelines</li>
+        <li>Database Management & Optimization</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-    @property
-    def interests(self):
-        return [
-            "Data Engineering",
-            "Data Warehousing",
-            "Cloud Infrastructure",
-            "ETL Pipelines",
-        ]
-
-    @property
-    def goal(self):
-        return (
-            "Build scalable data solutions that turn raw data "
-            "into meaningful insights 🚀"
-        )
-
-    def say_hi(self):
-        print("Hey there! Thanks for visiting — let's build something great with data!")
-
-me = TBhupal()
-me.say_hi()
-```
+> **My Goal:** Build highly scalable, reliable data solutions that easily bridge the gap between complex raw data engineering and real-world business analytics. 🚀
 
 ---
 

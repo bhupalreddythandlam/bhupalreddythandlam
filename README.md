@@ -78,6 +78,4 @@ Hello! I'm <b>T Bhupal</b>, a passionate B.Tech student specializing in Artifici
 
 **⭐ If you find my work interesting, feel free to star my repositories!**
 
-*"Data is the new oil, and I'm here to refine it."* 🛢️➡️💡
-
 </div>
